@@ -1,4 +1,4 @@
-#Include the dplyr library and set working directory
+#Include the dplyr library and set working directory. Set the working directory according to your own Local Computer where the dataset saved.
 library(dplyr)
 setwd("C:/Users/ASUS/Documents/DM/TB")
 
